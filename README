@@ -1,0 +1,3 @@
+k_file_pc.c         针对PC， 在内核态下进行文件的读写
+k_file_arm.c        针对ARM，在内核态下进行文件的读写
+Makefile            编译文件
